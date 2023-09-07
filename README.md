@@ -2,7 +2,7 @@
 I am fullstack developer.
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hortofagos&theme=dark&border_radius=6.2&card_width=516)](https://git.io/streak-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hortofagos)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hortofagos&show_icons=true&theme=radical)
 <!--
 **Hortofagos/Hortofagos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
