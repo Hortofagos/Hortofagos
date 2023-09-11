@@ -1,8 +1,7 @@
 ### Hi there 👋
 I am fullstack developer.
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hortofagos&theme=dark&border_radius=6.2&card_width=516)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hortofagos&show_icons=true&theme=radical)
+### :![spinning-donut-featured](https://github.com/Hortofagos/Hortofagos/assets/120664745/2f86a895-41cb-487a-86ac-621962542bf9)
+
 <!--
 **Hortofagos/Hortofagos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
